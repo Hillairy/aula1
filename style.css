@@ -1,0 +1,49 @@
+* {
+    margin: 10px;
+    padding:10px;
+    
+}
+
+h1{
+    color:rgb(64, 11, 197);
+    text-align: center;
+}
+
+p{
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+h3 {
+    font-size: 25;
+    color:rgb(147, 88, 160);
+    text-align: left;
+}
+
+body {
+    
+    background-image: url('./IMG_2330.jpg'); 
+    background-size: cover;
+    background-position: center;
+}
+
+img{
+
+    width:200px;  
+    height: 200px;
+    border-radius: 50px;
+}
+
+.container {
+    
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+footer{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(5, 56, 101);
+}
